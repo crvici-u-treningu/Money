@@ -3,10 +3,10 @@ using System.Collections.Generic;
 
 namespace Money
 {
-    class MoneyExchange4 {
+    class MoneyExchange3 {
         Dictionary<int, int> inventar = new Dictionary<int, int>();
 
-        public MoneyExchange4()
+        public MoneyExchange3()
         {
             int[] velicine = new int[4] { 100, 50, 20, 10 };
 
