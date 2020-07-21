@@ -1,0 +1,13 @@
+C:\Users\Mika\source\repos\Money\bin\Debug\netcoreapp3.1\Money.exe
+C:\Users\Mika\source\repos\Money\bin\Debug\netcoreapp3.1\Money.deps.json
+C:\Users\Mika\source\repos\Money\bin\Debug\netcoreapp3.1\Money.runtimeconfig.json
+C:\Users\Mika\source\repos\Money\bin\Debug\netcoreapp3.1\Money.runtimeconfig.dev.json
+C:\Users\Mika\source\repos\Money\bin\Debug\netcoreapp3.1\Money.dll
+C:\Users\Mika\source\repos\Money\bin\Debug\netcoreapp3.1\Money.pdb
+C:\Users\Mika\source\repos\Money\obj\Debug\netcoreapp3.1\Money.csprojAssemblyReference.cache
+C:\Users\Mika\source\repos\Money\obj\Debug\netcoreapp3.1\Money.csproj.CoreCompileInputs.cache
+C:\Users\Mika\source\repos\Money\obj\Debug\netcoreapp3.1\Money.AssemblyInfoInputs.cache
+C:\Users\Mika\source\repos\Money\obj\Debug\netcoreapp3.1\Money.AssemblyInfo.cs
+C:\Users\Mika\source\repos\Money\obj\Debug\netcoreapp3.1\Money.dll
+C:\Users\Mika\source\repos\Money\obj\Debug\netcoreapp3.1\Money.pdb
+C:\Users\Mika\source\repos\Money\obj\Debug\netcoreapp3.1\Money.genruntimeconfig.cache
